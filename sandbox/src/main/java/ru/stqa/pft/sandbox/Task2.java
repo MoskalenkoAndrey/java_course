@@ -10,7 +10,7 @@ public class Task2 {
         Point p2 = new Point();
         p2.x = 4;
         p2.y = 5;
-        System.out.println("Расстояние между точками равно (первая часть задания) = " + (distance(p1, p2)));
+       System.out.println("Расстояние между точками равно (первая часть задания) = " + (distance(p1, p2)));
 
     }
     public static double distance(Point p1, Point p2) {
